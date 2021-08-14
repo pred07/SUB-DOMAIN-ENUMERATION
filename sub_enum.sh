@@ -2,7 +2,7 @@
 #Author:Brijith@pr3dat0r
 #Subdomain Enumeration
 
-day=(date +%A)
+day=$(date +%A)
 echo "Welcome $USER ! Today is $day.You are using $SHELL for script execution."
 dom=$1
 
