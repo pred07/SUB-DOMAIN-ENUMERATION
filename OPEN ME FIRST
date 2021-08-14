@@ -6,7 +6,7 @@ in kali linux
 
 
 
-step 1: download zip file by taping on code then surf below 
+step 1: download zip file by taping on green coloured code icon then surf below 
 step 2: open terminal & get into the folder by command>> cd Downloads/ 
 step 3: find file name by command>> ls 
 step 4: type>> unzip SUB-DOMAIN-ENUMERATION-main.zip (unziping zip file) 
