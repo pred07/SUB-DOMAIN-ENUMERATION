@@ -1,5 +1,4 @@
 # SUB DOMAIN ENUMERATION  
-![image](./cover.jpg)
 
 A Bash script to perform subdomain enumeration on a target domain using Kali Linux. This tool helps security professionals and enthusiasts discover subdomains of a given domain for reconnaissance and testing purposes.  
 
